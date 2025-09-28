@@ -1,6 +1,8 @@
 # Sudachi-Res
 Resources for the Sudachi Preset in SillyTavern<br>
-SillyTavern的对话补全预设Sudachi所需要的资源
+SillyTavern的对话补全预设Sudachi所需要的资源<br>
+注意，该仓库只用于存放资源，不是插件！不用安装，预设的Gal模式可以直接用！
+
 
 # 音频方面
 本预设所使用的资源均为免版税可用
